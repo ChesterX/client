@@ -1,0 +1,7 @@
+*.log
+*.dmp
+/addons/
+/Screenshots/
+*.bak
+*.rar
+*.zip

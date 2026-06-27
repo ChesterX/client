@@ -1,0 +1,67 @@
+
+
+//=== VIP Char Rank
+// TypeRank : 
+//			1   Text Rank 
+//			2	Rank Ảnh
+// VD Type = 1 Thì  TextRank/Img =  "Ten Rank"
+// VD Type = 1 Thì  SizeText/Width =  18 Font Size Text
+// ColorText = Ma mau Text chi su dung khi Type = 1
+// PosX ~ PosY : Điều chỉnh vị trí 
+
+// VD Type = 2 Thì  TextRank/Img =  "Custom\\RankUser\\TuChan\\1.tga"
+
+2
+//LevelRank		TypeRank		            TextRank/Img					ColorText					SizeText/Width			   Height		PosX			PosY
+	1				2			"Custom\\VIP\\VIP1.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	2				2			"Custom\\VIP\\VIP2.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	3				2			"Custom\\VIP\\VIP3.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	4				2			"Custom\\VIP\\VIP4.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	5				2			"Custom\\VIP\\VIP5.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	6				2			"Custom\\VIP\\VIP6.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	7				2			"Custom\\VIP\\VIP7.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	8				2			"Custom\\VIP\\VIP8.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	9				2			"Custom\\VIP\\VIP9.tga"                    "0xff0000FF"					           200					140		    0				50.0
+	10				2			"Custom\\VIP\\VIP10.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	11				2			"Custom\\VIP\\VIP11.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	12				2			"Custom\\VIP\\VIP12.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	13				2			"Custom\\VIP\\VIP13.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	14				2			"Custom\\VIP\\VIP14.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	15			    2			"Custom\\VIP\\VIP15.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	16				2			"Custom\\VIP\\VIP16.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	17				2			"Custom\\VIP\\VIP17.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	18				2			"Custom\\VIP\\VIP18.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	19				2			"Custom\\VIP\\VIP19.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	20				2			"Custom\\VIP\\VIP20.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	21				2			"Custom\\VIP\\VIP21.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	22				2			"Custom\\VIP\\VIP22.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	23				2			"Custom\\VIP\\VIP23.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	24				2			"Custom\\VIP\\VIP24.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	25				2			"Custom\\VIP\\VIP25.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	26				2			"Custom\\VIP\\VIP26.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	27				2			"Custom\\VIP\\VIP27.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	28				2			"Custom\\VIP\\VIP28.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	29				2			"Custom\\VIP\\VIP29.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	30				2			"Custom\\VIP\\VIP30.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	31				2			"Custom\\VIP\\VIP31.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	32				2			"Custom\\VIP\\VIP32.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	33				2			"Custom\\VIP\\VIP33.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	34				2			"Custom\\VIP\\VIP34.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	35				2			"Custom\\VIP\\VIP35.tga"                    "0xff0000FF"					       200					140		    0			    50.0
+	36				2			"Custom\\VIP\\VIP36.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	37				2			"Custom\\VIP\\VIP37.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	38				2			"Custom\\VIP\\VIP38.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	39				2			"Custom\\VIP\\VIP39.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	40				2			"Custom\\VIP\\VIP40.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	41				2			"Custom\\VIP\\VIP41.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	42				2			"Custom\\VIP\\VIP42.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	43				2			"Custom\\VIP\\VIP43.tga"                    "0xff0000FF"					       200					140		    0				50.0
+	44				2			"Custom\\VIP\\VIP44.tga"                    "0xff0000FF"					       200					140		    0				50.
+	60				2			"Custom\\VIP\\Reset.tga"				    "0xFFDD00FF"					       135					70		    5				75.0
+	61				2			"Custom\\VIP\\LucChien.tga"				    "0xFFDD00FF"					       135					70		    5				75.0
+	62				1			"Top Master"				                "0xFFDD00FF"					       22					-1		    0.0				-5
+	63				2			"Custom\\VIP\\velia.tga"	                "0xFFDD00FF"					       145					80		    15				80.0
+
+
+
+end
